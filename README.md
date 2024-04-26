@@ -1,7 +1,7 @@
 # 🇫🇷
 ## À propos de moi
 - 🐧 Passionné de Linux et de l'open source
-- 🔍 Intéressé par le monitoring et la supervision des systèmes
+- 🔍 Intéressé par l'infrastructure, le devops et la supervision des systèmes
 - 💻 Compétences en webhosting, base de données, developpement web
 - ✏️ Python, PHP, Bash, Powershell, ...
 - ⚒️ Symfony, CakePHP, Flask, Android, ...
@@ -9,7 +9,7 @@
 
 # 🇬🇧
 - 🐧 Passionate about Linux and open source
-- 🔍 Interested in system monitoring and supervision
+- 🔍 Interested in infrastructure, devopps and system monitoring
 - 💻 Skilled in webhosting, databases, web development 
 - ✏️ Python, PHP, Bash, Powershell, ...
 - ⚒️ Symfony, CakePHP, Flask, Android, ...- 
