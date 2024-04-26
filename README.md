@@ -1,4 +1,4 @@
-# :french:
+# 🇫🇷
 - 👋 Hi, I’m @CultureLinux
 - 👀 I’m interested in DevOps, Infrastructure as code, Monitoring and Security
 
