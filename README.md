@@ -17,7 +17,7 @@
 - 🌱 Always learning and exploring new technologies
 
 # Contact
-- Twitter : [@culturelinux]([https://twitter.com/culturelinux](https://twitter.com/culturelinux))
+- Twitter : [@culturelinux](https://twitter.com/culturelinux)
 - Youtube : [CultureLinux](https://www.youtube.com/channel/UCvAs60CyZDYb4JRj9eayBSQ)
 - Twitch : [CultureLinux](https://www.twitch.tv/culturelinux)
 
