@@ -9,13 +9,12 @@
 - 💻 Proficient in web hosting, databases, and web development <br/>
 - 🌱 Always learning and exploring new technologies <br/>
 - 💬 Ask me about **linux,monitoring,security** <br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturelinux&label=Profile%20views&color=0e75b6&style=flat" alt="culturelinux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=culturelinux" alt="culturelinux" /></a> </p>
-
+<br/>
 <p align="left"> <a href="https://twitter.com/culturelinux" target="blank"><img src="https://img.shields.io/twitter/follow/culturelinux?logo=twitter&style=for-the-badge" alt="culturelinux" /></a> </p>
 
-
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
