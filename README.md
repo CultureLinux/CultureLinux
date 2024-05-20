@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=culturelinux&show_icons=true&locale=en&layout=compact" alt="culturelinux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=culturelinux&show_icons=true&locale=en" alt="culturelinux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=culturelinux" alt="culturelinux" /></p>
