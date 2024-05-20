@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm CultureLinux</h1>
 <h3 align="center">A passionate linux user from France</h3>
-- 🔭 I’m currently working with [OpenTofu](https://github.com/CultureLinux/opentofu)
-- 🐧 Passionate about Linux and open source
-- 🔍 Interested in infrastructure, devopps and system monitoring
-- 💻 Skilled in webhosting, databases, web development 
-- ✏️ Python, PHP, Bash, Powershell, ...
-- ⚒️ Symfony, CakePHP, Flask, Android, ...- 
-- 💻 Proficient in web hosting, databases, and web development
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about **linux,monitoring,security**
+- 🔭 I’m currently working with [OpenTofu](https://github.com/CultureLinux/opentofu) <br/>
+- 🐧 Passionate about Linux and open source <br/>
+- 🔍 Interested in infrastructure, devopps and system monitoring <br/>
+- 💻 Skilled in webhosting, databases, web development  <br/>
+- ✏️ Python, PHP, Bash, Powershell, ... <br/>
+- ⚒️ Symfony, CakePHP, Flask, Android, ...  <br/>
+- 💻 Proficient in web hosting, databases, and web development <br/>
+- 🌱 Always learning and exploring new technologies <br/>
+- 💬 Ask me about **linux,monitoring,security** <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturelinux&label=Profile%20views&color=0e75b6&style=flat" alt="culturelinux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=culturelinux" alt="culturelinux" /></a> </p>
