@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm CultureLinux</h1>
 <h3 align="center">A passionate linux user from France</h3>
-- 🔭 I’m currently working with [OpenTofu](https://github.com/CultureLinux/opentofu) <br/>
+- 🔭 I’m currently working with <a href="https://github.com/CultureLinux/opentofu" target="_blank">[OpenTofu]</a> <br/>
 - 🐧 Passionate about Linux and open source <br/>
-- 🔍 Interested in infrastructure, devopps and system monitoring <br/>
+- 🔍 Interested in infrastructure, linux, devops and system monitoring <br/>
 - 💻 Skilled in webhosting, databases, web development  <br/>
 - ✏️ Python, PHP, Bash, Powershell, ... <br/>
 - ⚒️ Symfony, CakePHP, Flask, Android, ...  <br/>
 - 💻 Proficient in web hosting, databases, and web development <br/>
 - 🌱 Always learning and exploring new technologies <br/>
-- 💬 Ask me about **linux,monitoring,security** <br/>
+- 💬 Ask me about <b>linux,monitoring,security</b> <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturelinux&label=Profile%20views&color=0e75b6&style=flat" alt="culturelinux" /> </p>
 <br/>
